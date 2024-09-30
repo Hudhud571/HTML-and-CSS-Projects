@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The German Sheppard Dog</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	<p>What is your favourite dog?</p>
+	<h1>1.The German Sheppard Dog.</h1>
+	<footer>
+		<p>Auther: Abdirahman Said<br>
+		<a href="mailto:abdi@example.com">abdi@example.com</a></p>
+	</footer>
+	<main>
+		<h1>The German Sheppard Dog.</h1>
+		<p>This is my favourite dog.</p>
+	</main>
+	<img src="German-shephard-dog.jpeg">
+		
+	
+	</body>
+	
+</html>
